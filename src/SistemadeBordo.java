@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ImortalNicolasEGiancarlo {
+public class SistemadeBordo {
 
 
     public static void main(String[] args) {
